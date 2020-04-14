@@ -25,7 +25,7 @@ In this brief exercise, you will experience how IT generalists can provision and
 #. In a browser, open **Prism Element** and log in using the following local user credentials:
 
    - **Username** - admin
-   - **Password** - emeaX2020!
+   - **Password** - *refer to your clusterassigment at :ref:`clusterassignments`*
 
    .. figure:: images/1.png
 
