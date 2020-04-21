@@ -21,6 +21,17 @@ Connectivity
 Lab Access Methods
 ..................
 
+Frame session
++++++++++++++
+
+1. Login to https://frame.nutanix.com/x/labs using your supplied credentials.
+2. Accept the **Nutanix Cloud Services Term of Services** by clicking on the **I Accept** button.
+3. Double click on the *Desktop* icon to start your Frame Session.
+4. This will give you a 6 hour windows for your labs. In the Windows 10 session you should have all tools needed for the labs pre-installed
+   
+   .. figure:: images/Framesession.png
+
+
 Parallels VDI
 +++++++++++++
 
@@ -49,16 +60,6 @@ Pulse Secure VPN Client
 
 6. Once setup, login with the supplied credentials
 
-
-Frame session
-+++++++++++++
-
-1. Login to https://frame.nutanix.com/x/labs using your supplied credentials.
-2. Accept the **Nutanix Cloud Services Term of Services** by clicking on the **I Accept** button.
-3. Double click on the *Desktop* icon to start your Frame Session.
-4. This will give you a 6 hour windows for your labs. In the Windows 10 session you should have all tools needed for the labs pre-installed
-   
-   .. figure:: images/Framesession.png
    
   
 

@@ -9,7 +9,7 @@ Your Cluster Details
 Cluster Assignments
 +++++++++++++++++++
 
-Your Nutanix Host will provide you with the needed parameters to access tyou custer.
+Your Nutanix Host will provide you with the needed parameters to access your cluster.
 
 .. raw:: html
 
