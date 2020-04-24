@@ -1,4 +1,4 @@
-.. title:: Nutanix Global Tech Summit 2020
+.. title:: Nutanix 
 
 .. toctree::
    :maxdepth: 2
